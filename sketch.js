@@ -34,7 +34,7 @@ function setup() {
   fruitGroup = createGroup();
   monsterGroup = createGroup();
 
-  knife.debug = true;
+  knife.debug = false;
 }
 
 function draw() {
